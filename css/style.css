@@ -1,0 +1,11 @@
+main {
+    margin: 3rem 2rem 0 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
