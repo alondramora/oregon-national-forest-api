@@ -6,13 +6,13 @@ Link to project: [http://recruiters-love-seeing-live-demos.com/](https://oregon-
 ![alt tag](css/images/or-for-api.jpg)
 
 
-How It's Made:
+# How It's Made:
 Tech used: HTML, CSS, JavaScript, Node.js, Express
 
 I used Node and Express to build an API.
 
-Optimizations
+# Optimizations
 Styling soon to come.
 
-Lessons Learned:
+# Lessons Learned:
 This was great practice in using Node and Express to build an API. Having this knowledge opens up so many doors for me to continue building future projects.
