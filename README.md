@@ -1,5 +1,5 @@
 # Oregon National Forest API
-This API contains the names, date established, acres, location, and links to the offical sites of all 11 National Forests in the state of Oregon.
+This API contains the names, date established, acres, location, and links to the official sites of all 11 National Forests in the state of Oregon.
 
 Link to project: [http://recruiters-love-seeing-live-demos.com/](https://oregon-national-forest-api.herokuapp.com/api/umpqua)
 
